@@ -1,0 +1,29 @@
+{
+   "TranslateConfig":{
+      "DefaultLang":"pl",
+      "ErrorLang":"pl",
+      "LocationLanq":"json",
+      "AvailableLang":[
+         {
+            "ShortName":"en",
+            "LongName":"Polski",
+            "Active":"true"
+         },
+         {
+            "ShortName":"pl",
+            "LongName":"English",
+            "Active":"true"
+         }
+      ]
+   },
+   "SelectedLang":"",
+   "lang":{
+      "en":{
+         "hello":"Hello!"
+      },
+      "test":{
+         "hello":"test"
+      },    "pl":{
+             "hello":"Cześć!"
+          }
+   }}
