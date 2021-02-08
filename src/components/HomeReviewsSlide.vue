@@ -110,6 +110,7 @@ export default {
     width: 60%;
     padding-top: 0px;
     float: right;
+    margin-right: -15.5px;
   }
 
   .reviews__slide__star {
